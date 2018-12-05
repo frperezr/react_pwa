@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frperezr.github.io/react_pwa",
+  "homepage": "https://frperezr.github.io/react_pwa/",
   "precommit": "NODE_ENV=production lint-staged",
   "lint-staged": {
     "*.{js,jsx}": [
